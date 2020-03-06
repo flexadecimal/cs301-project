@@ -1,0 +1,86 @@
+[
+  {
+    "mod_type_id": "1",
+    "mod_name": "Boost",
+    "mod_default": "0",
+    "mod_type_type": "range",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "2",
+    "mod_name": "Fuel",
+    "mod_default": "pump gas",
+    "mod_type_type": "fixed",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "3",
+    "mod_name": "Liter",
+    "mod_default": "3.0",
+    "mod_type_type": "fixed",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "4",
+    "mod_name": "Turbo Class",
+    "mod_default": "0",
+    "mod_type_type": "fixed",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "5",
+    "mod_name": "Turbo Name",
+    "mod_default": "0",
+    "mod_type_type": "fixed",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "6",
+    "mod_name": "Other",
+    "mod_default": "0",
+    "mod_type_type": "fixed",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "7",
+    "mod_name": "Injection",
+    "mod_default": "0",
+    "mod_type_type": "boolean",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "8",
+    "mod_name": "Nitrous",
+    "mod_default": "0",
+    "mod_type_type": "boolean",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "9",
+    "mod_name": "Correction",
+    "mod_default": "0",
+    "mod_type_type": "fixed",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "10",
+    "mod_name": "Heads",
+    "mod_default": "0",
+    "mod_type_type": "fixed",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "11",
+    "mod_name": "Max HP",
+    "mod_default": "0",
+    "mod_type_type": "hidden",
+    "mod_checked": null
+  },
+  {
+    "mod_type_id": "12",
+    "mod_name": "Max TQ",
+    "mod_default": "0",
+    "mod_type_type": "hidden",
+    "mod_checked": null
+  }
+]
